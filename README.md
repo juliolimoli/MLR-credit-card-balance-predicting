@@ -1,1 +1,1 @@
-# titanic-exploratory-analysis
+# Multiple Linear Regression: Credit Card Balance Predicting
